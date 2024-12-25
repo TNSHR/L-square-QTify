@@ -17,7 +17,7 @@
    margin-right: 100px;
    display: flex;
    align-items: center;
-   
+   margin-right: 300px
   
    
    
@@ -37,6 +37,7 @@
    border-color: rgba(18, 18, 18, 1);
    cursor: pointer;
    text-align: left;
+   
    
 }
 .searchButton:hover{

@@ -1,0 +1,37 @@
+.navbar {
+    height: 74px;
+    width: 1440px;
+    border: 1px;
+    
+    background-color: rgba(52, 201, 75, 1);
+    
+    display: flex; 
+    justify-content: space-between; 
+    flex-direction: row;
+    vertical-align: auto;
+    
+     
+    
+    
+
+    
+  }
+  .navbar-logo{
+    
+    
+    margin-left: 150px;
+    width: 67px;
+   height: 34px;
+    top:auto;
+    position: absolute;
+    margin-right: 500px;
+   
+    
+    
+    
+
+  }
+  
+
+  
+ 

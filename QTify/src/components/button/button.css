@@ -1,0 +1,35 @@
+.button{
+    
+    
+    
+        width: 170px; 
+        height: 47px; 
+        top: 13px;
+        left: 1238px;
+        border-radius: 12px;
+        border: 1px;
+        padding-top: 10px;
+        padding-right: 16px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        gap: 10px;
+        background-color: rgba(18, 18, 18, 1);
+        color: rgba(52, 201, 75, 1);
+        margin-left: auto;
+        font: poppins;
+        font-weight: 600;
+        size: 18px;
+        line-height: 27px;
+        letter-spacing: 0.25px;
+        text-align: center;
+        
+        font-family: 'Poppins';
+      
+      
+}
+.container{
+    display: flex;
+  justify-content: flex-end;
+}
+
+

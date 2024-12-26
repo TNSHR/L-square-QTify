@@ -10,7 +10,7 @@ const Navbar = () =>{
         
          <nav className="navbar">
 
-<img src={Qlogo} alt="Logo" className="navbar-logo" />
+<img src={Qlogo} alt="Company Logo" className="navbar-logo" />
              <SearchBar/>
             <Button/>
 

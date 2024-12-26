@@ -1,18 +1,21 @@
 .navbar {
   width: 1440px;
 height: 74px;
-padding: 0 20px;
+
 background: rgba(52, 201, 75, 1);
 display: flex;
-vertical-align: center;
-justify-content: space-between;
+flex-direction: row;
+
+
+
 }
 
 .navbar-logo {
   width: 67px;
   height: 34px;
-  top: 20px;
-  left: 32px;
+  margin-left: 20px;
+  
+  
  
   
 }

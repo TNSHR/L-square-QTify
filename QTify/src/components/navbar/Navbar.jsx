@@ -10,9 +10,9 @@ const Navbar = () =>{
         
          <nav className="navbar">
 
-              <Button/>
+<img src={Qlogo} alt="Logo" className="navbar-logo" />
              <SearchBar/>
-             <img src={Qlogo} alt="Logo" className="navbar-logo" />
+            <Button/>
 
 
         

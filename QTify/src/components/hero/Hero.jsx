@@ -10,12 +10,8 @@ const Hero =()=>{
         <div className="text">
             <h1 className="text1">100 Thousand Songs, ad-free</h1>
             <h1 className="text2"> Over thousand podcast episodes</h1>
-
-            
-        
-        
-        </div>
-        <div className="logo"><img src={Vlogo}   alt="Vibrating Headphone" /></div>
+            </div>
+        <img src={Vlogo}  className="logo" alt="Vibrating Headphone" />
         
       </section>
         </div>

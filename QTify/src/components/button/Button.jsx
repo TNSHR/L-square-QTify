@@ -4,9 +4,9 @@ import "./button.css";
 
 const Button = ()=>{
     return(
-        <div className="container">
+        <div >
              <button className="button">
-         Give Feedback
+         <h1 className="textB">Give Feedback</h1>
         </button>
         </div>
        
